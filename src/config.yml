@@ -1,0 +1,8 @@
+# Wait time before player can join the server (seconds)
+WaitTime: 60
+WhitelistMessage: '&cSorry, plese wait %time% more seconds!'
+
+PermissionDenied: '&cSorry, you dont have permission to use that! :('
+
+# You can add and remove UUID from in-game: "/wb"
+WhitelistedUUID:

@@ -1,0 +1,12 @@
+ name: WhitelistDelay
+ version: 1.0.0
+ description: Set a timed whitelist at the being of server boot up
+ author: GHStudios
+
+ main: com.ghstudios.Main
+ database: false
+
+ commands:
+   wd:
+     description: Main commands for WhitelistDelay
+     aliases: [wdelay, whitelistdelay]
